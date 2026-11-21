@@ -1,41 +1,27 @@
-<h1 align="center">Hey There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">! I'm Farrel (or Reksa)</h1>
+### farrel reksa prawira
 
-<h3 align="center">
-  • Currently pursuing an Information Systems degree at the University of Indonesia <br>
-  • Project Manager at <a href="https://www.ristek.cs.ui.ac.id/">RISTEK Fasilkom</a><br>
-  • Deeply passionate about Product Management and AI/Data Science, especially their intersection and real-world applications.
-</h3>
+ai & product · south jakarta
 
----
+Final-year Information Systems student at Universitas Indonesia. I build AI products from prototype to launch.
 
-## 🌐 Social Platforms
+- **now:** co-founder of [Tofly](https://tofly.id), AI-assisted TOEFL, IELTS and TOEIC prep used by 1,000+ Indonesian students
+- **next:** Forward Deployed Engineer Apprentice at Shopee, from January 2027
+- **before:** AI infrastructure product at Indosat Ooredoo Hutchison, project manager at RISTEK Fasilkom UI
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/reksafarrel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farrel-reksa/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/your-username)
+#### selected work
 
----
+| project | what it is | |
+| --- | --- | --- |
+| [tofly.id](https://tofly.id) | AI test prep priced for Indonesian students | 1st, KMI Expo 2026 |
+| [Docusense](https://github.com/farrelrp/Docusense) | Edge extension that reads PDF layouts and describes figures for visually impaired students | 2nd, Microsoft AI for Accessibility |
+| [PINK-MVAN](https://drive.google.com/file/d/1rZxZFWfazoDvzvbOxByuY1L4X_vTPAbl/view?usp=sharing) | Multi-view mammography model, quantized to 0.059 MB and 8× faster on CPU | 1st, GEMASTIK XVIII |
+| [ristek.link](https://ristek.link) | Link shortener with custom domains and QR codes, 4,000+ users | |
+| [StudyTurtle](https://github.com/farrelrp/StudyTurtle) | Turns study PDFs into flashcards | |
 
-## 🛠️ Technologies & Tools
+#### stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-
-
-## 🚀 Featured Projects
-
-### 📚 StudyTurtle 🐢
-_A smarter way to study with AI-powered flashcards!_
-
-[![StudyTurtle Repo](https://img.shields.io/badge/Repo-StudyTurtle-blue)](https://github.com/your-username/StudyTurtle)
+python · sql · scikit-learn · tensorflow · yolo · typescript · next.js · react · django · postgresql
 
 ---
 
-<h3 align="center">Let's connect and build something amazing together! 🚀</h3>
+[rrreksa.com](https://rrreksa.com) · [linkedin](https://www.linkedin.com/in/farrel-reksa/) · [farrelreksa@gmail.com](mailto:farrelreksa@gmail.com)
